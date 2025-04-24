@@ -1,11 +1,10 @@
 <!-- Introduction -->
 <h1>Hello, I'm Jo Yeong Chan</h1>
-<p>🎓 Konkuk University (Seoul Campus)</p>
-<p> Major : Smart ICT Convergence Engineering</p>
-<p> Minor : Digital Culture & Content </p>
+<p><strong>🎓 Konkuk University (Seoul Campus)</strong></p>
+<p><strong>💻 Major : Smart ICT Convergence Engineering | Minor : Digital Culture & Content</strong></p>
 
 <!-- DB & Backend -->
-## 💻 Tech Stacks
+## 🛠️ Tech Stacks
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
@@ -35,4 +34,4 @@
 
 ## 📊 GitHub Stats
 ![YChany’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=ychany&show_icons=true&theme=default&include_all_commits=true)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ychany&layout=compact&theme=default)
