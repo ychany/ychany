@@ -31,6 +31,9 @@
 <a href="mailto:dudcks463@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=dudcks463@gmail.com"/>
 </a>
+<a href="https://www.linkedin.com/in/영찬-조-23809637b/?lipi=urn%3Ali%3Apage%3Ad_flagship3_people%3BizdI%2FtVFRkWdV9Ik2PC59A%3D%3D">
+  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"/>
+</a>
 
 ## 📊 GitHub Stats
 ![YChany’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=ychany&show_icons=true&theme=default&include_all_commits=true)
