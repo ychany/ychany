@@ -35,10 +35,10 @@
 
 
 ## 📊 GitHub Stats
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ychany&theme=default)
+
+<!--
 ![YChany GitHub Stats](https://github-readme-stats.vercel.app/api?username=ychany&show_icons=true&theme=default&include_all_commits=true&cache_seconds=1800)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ychany&layout=compact&theme=default&cache_seconds=1800)
-
-
-
-
+-->
 
