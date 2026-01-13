@@ -31,7 +31,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:dudcks463@gmail.com)
 [![University Mail](https://img.shields.io/badge/University%20Mail-2F5D9F?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:dudcks5344@konkuk.ac.kr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ychany-23809637b)
-
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/y_chany_04/)
 
 
 ## 📊 GitHub Stats
@@ -40,6 +40,6 @@
 <!--
 ![YChany GitHub Stats](https://github-readme-stats.vercel.app/api?username=ychany&show_icons=true&theme=default&include_all_commits=true&cache_seconds=1800)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ychany&layout=compact&theme=default&cache_seconds=1800)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/y_chany_04/)
+
 -->
 
