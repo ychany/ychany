@@ -3,6 +3,8 @@
 <p><strong>🎓 Konkuk University (Seoul Campus)</strong></p>
 <p><strong>💻 Major : Smart ICT Convergence Engineering | Minor : Digital Culture & Content</strong></p>
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-00A98F?style=flat-square&logo=aboutdotme&logoColor=white)](https://jyc-portfolio.vercel.app)
+
 ## 🛠️ Tech Stacks
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -20,6 +22,7 @@
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
 </p>
 
 <p>
