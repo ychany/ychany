@@ -4,9 +4,9 @@
 <p><strong>💻 Major : Smart ICT Convergence Engineering | Minor : Digital Culture & Content</strong></p>
 
 
-### 🌐 Portfolio
+### 🌐 Portfolio & Links
 [![Portfolio](https://img.shields.io/badge/Visit-My%20Portfolio-000000?style=flat-square)](https://jyc-portfolio.vercel.app)
-
+[![DevLinks](https://img.shields.io/badge/Visit-DevLinks-0A66C2?style=flat-square)](https://jyc-devlinks.vercel.app)
 
 ## 🛠️ Tech Stacks
 <p>
