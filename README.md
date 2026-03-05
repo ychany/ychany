@@ -4,6 +4,12 @@
 <p><strong>💻 Major : Smart ICT Convergence Engineering | Minor : Digital Culture & Content</strong></p>
 
 
+### 🌳 Career
+- **2025.02 ~ 현재** | (주)서울소프트 Full-stack Developer
+
+### 🎓 Experience
+- **2026.03 ~ 현재** | IT 동아리 디프만(DEPROMEET) 18기 Web Developer
+
 ### 🌐 Portfolio & Links
 [![Portfolio](https://img.shields.io/badge/Visit-My%20Portfolio-000000?style=flat-square)](https://jyc-portfolio.vercel.app)
 [![DevLinks](https://img.shields.io/badge/Visit-DevLinks-0A66C2?style=flat-square)](https://jyc-devlinks.vercel.app)
