@@ -4,12 +4,6 @@
 <p><strong>💻 Major : Smart ICT Convergence Engineering | Minor : Digital Culture & Content</strong></p>
 
 
-### 🌳 Career
-- **2025.02 ~ 현재** | (주)서울소프트 Full-stack Developer
-
-### 🎓 Experience
-- **2026.03 ~ 현재** | IT 동아리 디프만(DEPROMEET) 18기 Web Developer
-
 ### 🌐 Portfolio & Links
 [![Portfolio](https://img.shields.io/badge/Visit-My%20Portfolio-000000?style=flat-square)](https://jyc-portfolio.vercel.app)
 [![DevLinks](https://img.shields.io/badge/Visit-DevLinks-0A66C2?style=flat-square)](https://jyc-devlinks.vercel.app)
@@ -47,6 +41,12 @@
 [![University Mail](https://img.shields.io/badge/University%20Mail-2F5D9F?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:dudcks5344@konkuk.ac.kr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ychany-23809637b)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/y_chany_04/)
+
+### 🌳 Career
+- **2025.02 ~ 현재** | (주)서울소프트 Full-stack Developer
+
+### 🎓 Experience
+- **2026.03 ~ 현재** | IT 동아리 디프만(DEPROMEET) 18기 Web Developer
 
 
 ## 📊 GitHub Stats
