@@ -49,10 +49,10 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/y_chany_04/)
 
 ### 🌳 Career
-- **2025.02 ~ 현재** | (주)서울소프트 Full-stack Developer
+- **2025.02 ~ 2026.07** | (주)서울소프트 Full-stack Developer
 
 ### 🎓 Experience
-- **2026.03 ~ 현재** | IT 동아리 디프만(DEPROMEET) 18th Web Developer
+- **2026.03 ~ 2026.06** | IT 동아리 디프만(DEPROMEET) 18th Web Developer
 - **2026.04** | 구름톤(goormthon) in JEJU 17th Frontend Developer
 
 ## 📊 GitHub Stats
