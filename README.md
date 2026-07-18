@@ -4,10 +4,11 @@
 <p><strong>💻 Major : Smart ICT Convergence Engineering | Minor : Digital Culture & Content</strong></p>
 
 
-### 🌐 Portfolio
+## 🌐 Portfolio
 [![Portfolio](https://img.shields.io/badge/Visit-My%20Portfolio-000000?style=flat-square)](https://yeongchan.dev)
 <!-- [![DevLinks](https://img.shields.io/badge/Visit-DevLinks-0A66C2?style=flat-square)](https://jyc-devlinks.vercel.app) -->
 
+<!--
 ## 🛠️ Tech Stacks
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -34,7 +35,7 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
 </p>
-
+-->
 <!--
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
@@ -48,10 +49,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ychany)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/y_chany_04/)
 
-### 🌳 Career
+## 🌳 Career
 - **2025.02 ~ 2026.07** | (주)서울소프트 Full-stack Developer
 
-### 🎓 Experience
+## 🎓 Experience
 - **2026.03 ~ 2026.06** | IT 동아리 디프만(DEPROMEET) 18th Web Developer
 - **2026.04** | 구름톤(goormthon) in JEJU 17th Frontend Developer
 
