@@ -53,8 +53,10 @@
 - **2025.02 ~ 2026.07** | (주)서울소프트 Full-stack Developer
 
 ## 🎓 Experience
-- **2026.03 ~ 2026.06** | IT 동아리 디프만(DEPROMEET) 18th Web Developer
+- **2026.03 ~ 2026.06** | 디프만(DEPROMEET) 18th Web Developer
 - **2026.04** | 구름톤(goormthon) in JEJU 17th Frontend Developer
+- **2026.09 ~ 현재** | GDG on Campus Konkuk University 26-27 Member
+- **2026.09 ~ 현재** | 솝트(SOPT) 39th Web Developer
 
 ## 📊 GitHub Stats
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ychany&theme=default)
