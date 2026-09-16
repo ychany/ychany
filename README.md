@@ -55,8 +55,8 @@
 ## 🎓 Experience
 - **2026.03 ~ 2026.06** | 디프만(DEPROMEET) 18th Web Developer
 - **2026.04** | 구름톤(goormthon) in JEJU 17th Frontend Developer
-- **2026.09 ~ 현재** | GDG on Campus Konkuk University 26-27 Member
-- **2026.09 ~ 현재** | 솝트(SOPT) 39th Web Developer
+- **2026.09 ~** | GDG on Campus Konkuk University 26-27 Member
+- **2026.09 ~** | 솝트(SOPT) 39th Web Developer
 
 ## 📊 GitHub Stats
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ychany&theme=default)
